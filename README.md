@@ -5,12 +5,12 @@ Usei o ScrollReveal para fazer as animações quando você vai rolando a página
 
 Usei o Swiper para fazer os comentários da pagina
 
-link pra teste:
+link pra teste: https://davidrherinson.github.io/landing-page-salao/
 
 <div style="display: flex" align="center">
-<img src="imgs/print1.png" width="400" height="400"> 
-<img src="imgs/print2.png" width="400" height="400">
-<img src="imgs/print3.png" width="400" height="400"> 
-<img src="imgs/print4.png" width="400" height="400">
+<img src="imgs/print1.png" width="600" height="400"> 
+<img src="imgs/print2.png" width="600" height="400"> <br>
+<img src="imgs/print3.png" width="300" height="400"> 
+<img src="imgs/print4.png" width="300" height="400">
 </div>
 
