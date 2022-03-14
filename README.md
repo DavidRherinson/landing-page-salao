@@ -8,9 +8,9 @@ Usei o Swiper para fazer os comentários da pagina
 link pra teste:
 
 <div style="display: flex" align="center">
-<img src="imgs/print1.png" width="00" height="400"> 
-<img src="imgs/print2.png" width="500" height="400">
-<img src="imgs/print3.png" width="500" height="400"> 
-<img src="imgs/print4.png" width="500" height="400">
+<img src="imgs/print1.png" width="400" height="400"> 
+<img src="imgs/print2.png" width="400" height="400">
+<img src="imgs/print3.png" width="400" height="400"> 
+<img src="imgs/print4.png" width="400" height="400">
 </div>
 
