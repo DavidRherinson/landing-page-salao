@@ -1,5 +1,5 @@
 #Landing page
-<h3>Landing page de um salão de unha responsiva feita com html, css e javascript </h3>
+<h3>Landing page de um salão de unha responsiva feito com html, css e javascript </h3>
 
 Usei o ScrollReveal para fazer as animações quando você vai rolando a página pra baixo e as imagens e divs vão aparecendo aos poucos 
 
