@@ -5,7 +5,7 @@ Usei o ScrollReveal para fazer as animações quando você vai rolando a página
 
 Usei o Swiper para fazer os comentários da pagina
 
-link pra teste: https://davidrherinson.github.io/landing-page-salao/
+link pra teste: https://vercel.com/davidrherinson/milena-unhas
 
 <div style="display: flex" align="center">
 <img src="imgs/print1.png" width="600" height="400"> 
